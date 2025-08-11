@@ -23,11 +23,14 @@
 | IR   | 1   |
 
 The rest of the roster is comprised of bench spots.
+
 # Rules
+
 ### Logistics
 - League announcements and coordination will occur in the league's Discord. Members are responsible for following the announcements channel for updates.
 - Changes to league rules are made by a vote in the Discord server, requiring a simple vote of yes vs no. All votes must be live for at least 24 hours, with more time allowed at commissioner discretion depending on the significance of the rule change and the # of polls live at the same time.
 - Rules should be documented on this page by the commissioner and updated any time there is a change.
+
 ### Offseason
 The league has a buy-in of $30. A buy-in is considered notice to the commissioner that a member plans on playing the upcoming season. The buy-ins are due before the draft, or else members are at risk of removal from the league. If someone has special circumstances making the payment by draft date difficult, they should reach out to the commissioner to work it out in advance.
 
