@@ -48,3 +48,7 @@ In addition to the payout, the champion will have their name engraved on the lea
 
 ### Last Place
 Before the start of each season, the commissioner will facilitate a vote to settle on a list of 3 options for a last-place punishment. Last place is defined by the person in last at the end of the regular season (excludes playoffs). The punishment must be adhered to and done by the start of the following season. Failure to comply will result in expulsion from the league.
+
+### Trades and Transactions
+- No collusion. If the commissioner suspects collusion in a trade, they may put it to a vote and veto the trade if it passes.
+- Once a player is eliminated from the playoffs or playoff contention, they are no longer allowed to trade players or claim free agents.
