@@ -21,6 +21,7 @@
 | D/ST | 1   |
 | K    | 1   |
 | IR   | 1   |
+
 The rest of the roster is comprised of bench spots.
 # Rules
 ### Logistics
