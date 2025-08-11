@@ -10,7 +10,7 @@
 	- One-week matchups
 	- Single elimination
 
-### Lineup Composition
+# Lineup Composition
 
 | QB   | 1   |
 | ---- | --- |
