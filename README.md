@@ -1,4 +1,6 @@
-# Format
+# League Rules
+
+## Format
 - Platform: ESPN
 - Number of teams: 14
 - Draft Style: Auction ($200 per team)
@@ -10,7 +12,7 @@
 	- One-week matchups
 	- Single elimination
 
-# Lineup Composition
+## Lineup Composition
 
 | QB    | 1   |
 | ----- | --- |
@@ -25,7 +27,7 @@
 
 The rest of the roster is comprised of bench spots.
 
-# Rules
+## Rules
 
 ### Logistics
 - League announcements and coordination will occur in the league's Discord. Members are responsible for following the announcements channel for updates.
