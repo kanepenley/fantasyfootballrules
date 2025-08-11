@@ -12,15 +12,16 @@
 
 # Lineup Composition
 
-| QB   | 1   |
-| ---- | --- |
-| RB   | 2   |
-| WR   | 2   |
-| TE   | 1   |
-| FLEX | 1   |
-| D/ST | 1   |
-| K    | 1   |
-| IR   | 1   |
+| QB    | 1   |
+| ----- | --- |
+| RB    | 2   |
+| WR    | 2   |
+| TE    | 1   |
+| FLEX  | 1   |
+| D/ST  | 1   |
+| K     | 1   |
+| Bench | 5   |
+| IR    | 1   |
 
 The rest of the roster is comprised of bench spots.
 
